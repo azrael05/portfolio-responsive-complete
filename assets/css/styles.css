@@ -319,8 +319,8 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
-  width: 95%;
+.skills__All {
+  width: 100%;
 }
 
 .skills__css {
